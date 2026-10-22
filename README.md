@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/anshusolanki081-max/leetcodedsa/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/anshusolanki081-max/leetcodedsa/tree/master/0283-move-zeroes) |
 | [1051-height-checker](https://github.com/anshusolanki081-max/leetcodedsa/tree/master/1051-height-checker) |
 ## Sorting
 |  |
@@ -26,4 +27,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/anshusolanki081-max/leetcodedsa/tree/master/0031-next-permutation) |
+| [0283-move-zeroes](https://github.com/anshusolanki081-max/leetcodedsa/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
